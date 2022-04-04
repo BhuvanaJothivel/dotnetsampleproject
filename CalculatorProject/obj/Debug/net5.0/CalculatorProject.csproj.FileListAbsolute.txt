@@ -1,0 +1,16 @@
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.csproj.AssemblyReference.cache
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.AssemblyInfoInputs.cache
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.AssemblyInfo.cs
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject.deps.json
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject.runtimeconfig.json
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject.runtimeconfig.dev.json
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject.dll
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/ref/CalculatorProject.dll
+/home/coder/project/workspace/nunit-testing/CalculatorProject/bin/Debug/net5.0/CalculatorProject.pdb
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.dll
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/ref/CalculatorProject.dll
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.pdb
+/home/coder/project/workspace/nunit-testing/CalculatorProject/obj/Debug/net5.0/CalculatorProject.genruntimeconfig.cache
